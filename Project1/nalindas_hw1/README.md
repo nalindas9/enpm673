@@ -1,0 +1,1 @@
+3. Problem 3 - Open the terminal and navigate to the "Code" Folder inside "nalindas_hw1.zip" extracted folder path. Here you will find the .py file named "Problem_3_code.py". Run the command from the terminal - "python Problem_3_code.py". This code is implemented in Python 2.7.12 so python3 might not work.
