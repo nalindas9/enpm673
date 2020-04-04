@@ -2,6 +2,7 @@
 ENPM673 project on Lane line detection
 
 <img src = "images/work-2.gif">
+
 ## System and library requirements.
  - Python3
  - Numpy
